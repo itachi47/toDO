@@ -1,5 +1,6 @@
 # Files to ignore
-
+db.sqlite3
 
 # Directories to ignore
 env/
+migrations/
